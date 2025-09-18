@@ -49,6 +49,9 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=AlkayidAli&theme=dark&hide_border=false)<br/>
 
 ###
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/AlkayidAli/AlkayidAli/output/snake.svg" alt="Snake animation" />
+
+###
