@@ -44,9 +44,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="40" alt="eslint logo"  />
 </div>
 
-###
 
-![](https://nirzak-streak-stats.vercel.app/?user=AlkayidAli&theme=dark&hide_border=false)<br/>
-
-###
 
